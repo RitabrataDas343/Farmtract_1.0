@@ -74,3 +74,10 @@ This app uses the following technologies:
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> 
 
+## Collaborators
+
+I would like to thank my first Hackathon Team **Magnus** for making this project a grand success:
+* [Aritro Ghosh](https://github.com/TheInvincibleLearner)
+* [Akash Bachhar](https://github.com/akashbachhar)
+
+**HAIL MAGNUS**
