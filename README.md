@@ -80,4 +80,4 @@ I would like to thank my first Hackathon Team **Magnus** for making this project
 * [Aritro Ghosh](https://github.com/TheInvincibleLearner)
 * [Akash Bachhar](https://github.com/akashbachhar)
 
-**HAIL MAGNUS 👑 **
+**HAIL MAGNUS 👑**
